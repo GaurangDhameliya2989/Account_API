@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "EN/URs0Isz4=",
+  "success": true,
+  "projectFilePath": "D:\\Office Project\\Git_Hub Projects\\ACCOUNTMAL\\ACCOUNTMAL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\GAURANG\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\GAURANG\\.nuget\\packages\\servicestack.interfaces.core\\8.5.0\\servicestack.interfaces.core.8.5.0.nupkg.sha512",
+    "C:\\Users\\GAURANG\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

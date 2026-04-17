@@ -1,0 +1,12 @@
+D:\AccountApi\AccountApi\ACCOUNTMAL\bin\Debug\net8.0\ACCOUNTMAL.deps.json
+D:\AccountApi\AccountApi\ACCOUNTMAL\bin\Debug\net8.0\ACCOUNTMAL.dll
+D:\AccountApi\AccountApi\ACCOUNTMAL\bin\Debug\net8.0\ACCOUNTMAL.pdb
+D:\AccountApi\AccountApi\ACCOUNTMAL\obj\Debug\net8.0\ACCOUNTMAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\AccountApi\AccountApi\ACCOUNTMAL\obj\Debug\net8.0\ACCOUNTMAL.AssemblyInfoInputs.cache
+D:\AccountApi\AccountApi\ACCOUNTMAL\obj\Debug\net8.0\ACCOUNTMAL.AssemblyInfo.cs
+D:\AccountApi\AccountApi\ACCOUNTMAL\obj\Debug\net8.0\ACCOUNTMAL.csproj.CoreCompileInputs.cache
+D:\AccountApi\AccountApi\ACCOUNTMAL\obj\Debug\net8.0\ACCOUNTMAL.dll
+D:\AccountApi\AccountApi\ACCOUNTMAL\obj\Debug\net8.0\refint\ACCOUNTMAL.dll
+D:\AccountApi\AccountApi\ACCOUNTMAL\obj\Debug\net8.0\ACCOUNTMAL.pdb
+D:\AccountApi\AccountApi\ACCOUNTMAL\obj\Debug\net8.0\ref\ACCOUNTMAL.dll
+D:\AccountApi\AccountApi\ACCOUNTMAL\obj\Debug\net8.0\ACCOUNTMAL.csproj.AssemblyReference.cache

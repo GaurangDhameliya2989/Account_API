@@ -1,0 +1,6 @@
+@ACCOUNTAPI_HostAddress = http://localhost:5219
+
+GET {{ACCOUNTAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

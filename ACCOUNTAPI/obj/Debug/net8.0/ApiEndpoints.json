@@ -1,0 +1,162 @@
+[
+  {
+    "ContainingType": "ACCOUNTAPI.ACT01Controller",
+    "Method": "AddAcountHolder",
+    "RelativePath": "AddAcountHolder",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "objDTOT01",
+        "Type": "ACCOUNTMAL.DTOT01",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ACCOUNTAPI.ACT01Controller",
+    "Method": "AddCity",
+    "RelativePath": "AddCity",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "objDTOT02",
+        "Type": "ACCOUNTMAL.DTOT02",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ACCOUNTAPI.ACT01Controller",
+    "Method": "DeleteAccountHolder",
+    "RelativePath": "DeleteAccountHolder",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "acHolderId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ACCOUNTAPI.ACT01Controller",
+    "Method": "DeleteCity",
+    "RelativePath": "DeleteCity",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cityId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ACCOUNTAPI.ACT01Controller",
+    "Method": "DeleteTransaction",
+    "RelativePath": "DeleteTransaction",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "transactionId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ACCOUNTAPI.ACT01Controller",
+    "Method": "GetSummary",
+    "RelativePath": "GetSummary",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ACCOUNTAPI.ACT01Controller",
+    "Method": "MakeTransaction",
+    "RelativePath": "Transaction",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "objDTOT03",
+        "Type": "ACCOUNTMAL.DTOT03",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ACCOUNTAPI.ACT01Controller",
+    "Method": "UpadteAccountHolder",
+    "RelativePath": "UpdateAccountHolder",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "objDTOT01",
+        "Type": "ACCOUNTMAL.DTOT01",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ACCOUNTAPI.ACT01Controller",
+    "Method": "UpdateCity",
+    "RelativePath": "UpdateCity",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "objDTOT02",
+        "Type": "ACCOUNTMAL.DTOT02",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ACCOUNTAPI.ACT01Controller",
+    "Method": "UpdateTransaction",
+    "RelativePath": "UpdateTransaction",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "objDTOT03",
+        "Type": "ACCOUNTMAL.DTOT03",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

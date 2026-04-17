@@ -1,0 +1,17 @@
+D:\AccountApi\AccountApi\ACCOUNTBAL\bin\Debug\net8.0\ACCOUNTBAL.deps.json
+D:\AccountApi\AccountApi\ACCOUNTBAL\bin\Debug\net8.0\ACCOUNTBAL.dll
+D:\AccountApi\AccountApi\ACCOUNTBAL\bin\Debug\net8.0\ACCOUNTBAL.pdb
+D:\AccountApi\AccountApi\ACCOUNTBAL\obj\Debug\net8.0\ACCOUNTBAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\AccountApi\AccountApi\ACCOUNTBAL\obj\Debug\net8.0\ACCOUNTBAL.AssemblyInfoInputs.cache
+D:\AccountApi\AccountApi\ACCOUNTBAL\obj\Debug\net8.0\ACCOUNTBAL.AssemblyInfo.cs
+D:\AccountApi\AccountApi\ACCOUNTBAL\obj\Debug\net8.0\ACCOUNTBAL.csproj.CoreCompileInputs.cache
+D:\AccountApi\AccountApi\ACCOUNTBAL\obj\Debug\net8.0\ACCOUNTBAL.dll
+D:\AccountApi\AccountApi\ACCOUNTBAL\obj\Debug\net8.0\refint\ACCOUNTBAL.dll
+D:\AccountApi\AccountApi\ACCOUNTBAL\obj\Debug\net8.0\ACCOUNTBAL.pdb
+D:\AccountApi\AccountApi\ACCOUNTBAL\obj\Debug\net8.0\ref\ACCOUNTBAL.dll
+D:\AccountApi\AccountApi\ACCOUNTBAL\bin\Debug\net8.0\ACCOUNTDAL.dll
+D:\AccountApi\AccountApi\ACCOUNTBAL\bin\Debug\net8.0\ACCOUNTMAL.dll
+D:\AccountApi\AccountApi\ACCOUNTBAL\bin\Debug\net8.0\ACCOUNTDAL.pdb
+D:\AccountApi\AccountApi\ACCOUNTBAL\bin\Debug\net8.0\ACCOUNTMAL.pdb
+D:\AccountApi\AccountApi\ACCOUNTBAL\obj\Debug\net8.0\ACCOUNTBAL.csproj.AssemblyReference.cache
+D:\AccountApi\AccountApi\ACCOUNTBAL\obj\Debug\net8.0\ACCOUNTBAL.csproj.Up2Date

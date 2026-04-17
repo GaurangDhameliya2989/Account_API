@@ -1,0 +1,15 @@
+D:\AccountApi\AccountApi\ACCOUNTDAL\bin\Debug\net8.0\ACCOUNTDAL.deps.json
+D:\AccountApi\AccountApi\ACCOUNTDAL\bin\Debug\net8.0\ACCOUNTDAL.dll
+D:\AccountApi\AccountApi\ACCOUNTDAL\bin\Debug\net8.0\ACCOUNTDAL.pdb
+D:\AccountApi\AccountApi\ACCOUNTDAL\obj\Debug\net8.0\ACCOUNTDAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\AccountApi\AccountApi\ACCOUNTDAL\obj\Debug\net8.0\ACCOUNTDAL.AssemblyInfoInputs.cache
+D:\AccountApi\AccountApi\ACCOUNTDAL\obj\Debug\net8.0\ACCOUNTDAL.AssemblyInfo.cs
+D:\AccountApi\AccountApi\ACCOUNTDAL\obj\Debug\net8.0\ACCOUNTDAL.csproj.CoreCompileInputs.cache
+D:\AccountApi\AccountApi\ACCOUNTDAL\obj\Debug\net8.0\ACCOUNTDAL.dll
+D:\AccountApi\AccountApi\ACCOUNTDAL\obj\Debug\net8.0\refint\ACCOUNTDAL.dll
+D:\AccountApi\AccountApi\ACCOUNTDAL\obj\Debug\net8.0\ACCOUNTDAL.pdb
+D:\AccountApi\AccountApi\ACCOUNTDAL\obj\Debug\net8.0\ref\ACCOUNTDAL.dll
+D:\AccountApi\AccountApi\ACCOUNTDAL\bin\Debug\net8.0\ACCOUNTMAL.dll
+D:\AccountApi\AccountApi\ACCOUNTDAL\bin\Debug\net8.0\ACCOUNTMAL.pdb
+D:\AccountApi\AccountApi\ACCOUNTDAL\obj\Debug\net8.0\ACCOUNTDAL.csproj.AssemblyReference.cache
+D:\AccountApi\AccountApi\ACCOUNTDAL\obj\Debug\net8.0\ACCOUNTDAL.csproj.Up2Date
