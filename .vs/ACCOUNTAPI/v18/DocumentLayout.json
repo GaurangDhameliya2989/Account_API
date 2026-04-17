@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Office Project\\Git_Hub Projects\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4B6B8615-AE5A-4C60-AC97-7B7C573F3838}|ACCOUNTAPI\\ACCOUNTAPI.csproj|d:\\office project\\git_hub projects\\accountapi\\act01controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B6B8615-AE5A-4C60-AC97-7B7C573F3838}|ACCOUNTAPI\\ACCOUNTAPI.csproj|solutionrelative:accountapi\\act01controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ACT01Controller.cs",
+              "DocumentMoniker": "D:\\Office Project\\Git_Hub Projects\\ACCOUNTAPI\\ACT01Controller.cs",
+              "RelativeDocumentMoniker": "ACCOUNTAPI\\ACT01Controller.cs",
+              "ToolTip": "D:\\Office Project\\Git_Hub Projects\\ACCOUNTAPI\\ACT01Controller.cs",
+              "RelativeToolTip": "ACCOUNTAPI\\ACT01Controller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T05:21:06.431Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
